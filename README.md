@@ -1,7 +1,13 @@
-# intro-to-ember-workshops
+# WIP intro-to-ember-workshops
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This repository will hold presentations that others may use and adapt to teach Ember.js!
+
+Source material for inspiration is this [Ember.js in 60 mins](https://docs.google.com/presentation/d/1sezqSmxkxo9EmBNpdD76VCTKQtztfO0qS5cGdixRMNw/edit?usp=sharing)
+talk, which may be used without restriction aside from those placed on the Ember branding (logos etc)
+by Tilde.io.
+
+The goals are to slowly move from slide decks in proprietary formats into an Ember app instead,
+possibly using [ember-present](https://github.com/gavinjoyce/ember-present)
 
 ## Prerequisites
 
